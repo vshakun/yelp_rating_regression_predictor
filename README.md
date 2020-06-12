@@ -1,4 +1,4 @@
-# yelp_rating_regression_predictor
+# Yelp rating regression predictor
 
 In this project I used a Multiple Linear Regression model to investigate what factors most affect a restaurant's Yelp rating and predict the Yelp rating for fictional restaurant. 
 
